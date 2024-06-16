@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="lim's extravaganza" />
         <p className="description">
-          A collection of miscellaneous <code>code</code>
+          A collection of miscellaneous<code>code</code>
         </p>
       </main>
 
