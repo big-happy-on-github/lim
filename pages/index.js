@@ -5,19 +5,19 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      <Head>
-        <title>Next.js Starter!</title>
+      <header>
+        <title>lims extravaganza</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
+      </header>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <header title="lim's extravaganza" />
+        <p class="description">
+          A collection of miscellaneous <code>code</code>
         </p>
       </main>
 
-      <Footer />
+      <footer><footer />
     </div>
   )
 }
